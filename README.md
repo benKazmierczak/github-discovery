@@ -1,2 +1,2 @@
 # decouverte-de-github
-Projet 1
+## Edité à partir de GitHub
